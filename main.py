@@ -21,7 +21,7 @@ slot_map = {
     "restaurant-area" : "hotel-area",
     "restaurant-bookday" : "hotel-bookday",
     "restaurant-bookpeople" : "hotel-bookpeople",
-    "restaurant-food" : "hotel-stars",
+    "restaurant-food" : "hotel-type",
     "restaurant-name" : "hotel-name",
     "restaurant-booktime" : "hotel-bookstay",
     "required_info" : "required_info"
