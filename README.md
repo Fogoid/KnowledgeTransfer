@@ -77,7 +77,7 @@ responses:
 
 For the restaurant domain, we define the actions **action_find_restaurant** and **action_book_restaurant**, whereas for the hotel domain we define **action\_find\_hotel** and **action_book_hotel**. Note that since both models' actions have the same functionality, the logic implemented is similar
 
-#### Action_find_restaurant and Action_find_hotel}
+#### Action_find_restaurant and Action_find_hotel
 
 To find a restaurant or a place to stay, we split the functionality in two parts:
 
