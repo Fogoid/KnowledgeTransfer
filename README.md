@@ -1,4 +1,4 @@
-The files presented in this repository are in the context of the Master Thesis *Making Chatbots for Customer Support: Fast and Serious*. In this files, we present the process we used to create a model for the Hotel domain using a Restaurant domain model created using the steps in https://github.com/Fogoid/MultiwozToRasa. If you want details on the implementation check **Chapter 5**. 
+The files presented in this repository are in the context of the Master Thesis *Making Chatbots for Customer Support: Fast and Serious*. In this files, we present the process we used to create a model for the Hotel domain by transfering the knowledge from a Restaurant domain model created using the steps in https://github.com/Fogoid/MultiwozToRasa. If you want details on the implementation check **Chapter 5**. 
 
 To recreate the hotel domain Rasa model we used for testing, perform the following steps:
 1. Clone this repository
